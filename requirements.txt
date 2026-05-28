@@ -1,0 +1,12 @@
+# SyncPulse - No external dependencies required
+# 本项目使用Python标准库实现，无需安装第三方依赖
+# This project uses Python standard library only, no third-party dependencies required
+
+# Python版本要求 / Python Version Requirements
+# Python >= 3.8
+
+# 可选依赖（用于开发测试）/ Optional dependencies (for development testing)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# black>=22.0.0
+# flake8>=5.0.0
